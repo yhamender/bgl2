@@ -15,7 +15,7 @@ body{background:#fff; overflow-x:hidden; background-image:url("Untitled-2.jpg");
 .portfolio-box .portfolio-box-in p, .portfolio-box .portfolio-box-in h1 { color: #fff; visibility: visible;text-shadow: 1px 1px 1px #000;}
 .portfolio-box-in h1 { color: #fff!important; visibility: visible;text-shadow: 1px 1px 1px #000; font-family: 'Fjalla One', sans-serif!important;}
 .dropdown-menu{background:#242424;}
-.btncourse-1{ color:#fff; text-transform:uppercase; border:1px solid #fff; padding:6px 25px; z-index:1000; margin-top:120px; font-size:21px; background:#000;}
+.btncourse-1{ color:#fff; text-transform:uppercase; border:1px solid #fff; padding:6px 25px; z-index:1000; margin-top:120px; font-size:21px; background:#868292;}
 .btncourse-1:hover{ color:#000000; background:#000; text-decoration:none;}
 .btncourse{ color:#000; text-transform:uppercase; border:1px solid #fff; padding:6px 9px; z-index:1000;  float:right; font-family: 'Fjalla One', sans-serif;}
 .btncourse:hover{ color:#FFFFFF; text-decoration:none;}

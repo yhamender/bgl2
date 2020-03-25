@@ -152,7 +152,7 @@
 <body <?php body_class('pace-done'); ?>>
 <div class="header navbar-fixed-top">
   <div class="container">
-    <div class="col-md-2"> <a class="logo" href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri();?>/assets/img/logo-2.png" style="margin-top:0px;" /></a> </div>
+    <div class="col-md-2"> <a class="logo" href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri();?>/assets/img/logo-2.png" style="margin-top:-38%;" /></a> </div>
     <div class="col-md-10"> 
      
   <?php if(is_user_logged_in()){ ?>

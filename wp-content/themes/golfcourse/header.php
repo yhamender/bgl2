@@ -130,7 +130,9 @@
 
 .navbar-nav
 {
-        top: 33px;
+        top: 45px;    
+        margin-left: 22px;
+
         
 }
 

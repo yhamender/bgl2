@@ -11,7 +11,7 @@
 
 <div class="container-fluid" style="background:#000;  padding: 20px 0;
 color: #fff; min-height:270px; text-align: center; width:100%; background-size: cover;">
-  <h1 style="margin-top: 147px; color: #fff!important; font-size: 47px; font-family: 'Fjalla One', sans-serif!important;">BGL PRESTIGE TEE TIME REQUEST</h1>
+  <h1 style="margin-top: 147px; color: #fff!important; font-size: 47px; font-family: 'Fjalla One', sans-serif!important;">BGL TEE TIME REQUEST</h1>
 </div>
 <div class="container">
   <div class="row spacer">

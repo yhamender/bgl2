@@ -6,9 +6,9 @@
         <div class="footer-area-1 col-md-3 col-sm-6">
           <section class="widget text-6 widget_text">
             <div class="widget-inner">
-              <h3 class="widget-title"><a href="<?php echo site_url('about-sea');?>">About BGL Prestige </a></h3>
+              <h3 class="widget-title"><a href="<?php echo site_url('about-sea');?>">About BGL </a></h3>
               <div class="textwidget">
-           <p style="text-align: center;"><a href="<?php echo site_url('about-sea');?>">1999 vom jungen Golfprofessional und Wirtschaftsstudenten Jochen Mertl gegründet mit dem Ziel seine Geschäftstätigkeit auf das Golf-Veranstaltungsmanagement auszudehnen wurde die „BGL Prestige  Sport Eventmanagement Agentur“ 2001 in eine GmbH umfirmiert.</a></p>
+           <p style="text-align: center;"><a href="<?php echo site_url('about-sea');?>">1999 vom jungen Golfprofessional und Wirtschaftsstudenten Jochen Mertl gegründet mit dem Ziel seine Geschäftstätigkeit auf das Golf-Veranstaltungsmanagement auszudehnen wurde die „BGL  Sport Eventmanagement Agentur“ 2001 in eine GmbH umfirmiert.</a></p>
            <p> <b> <a href="<?php echo site_url('about-sea');?>" style="float: right;">Read More..</a></b></p>
               </div>
             </div>
@@ -22,7 +22,7 @@
                 <p>Mail : office@s-e-a.at</p>
                 <p>Telefon: +43 664 2541675</p>
                 <p>Telefon: +43 732 771260</p>
-                <p>BGL Prestige  Sport Eventmanagement Agentur GmbH.</p>
+                <p>BGL  Sport Eventmanagement Agentur GmbH.</p>
                 <p>Waldstrasse 18</p>
                 <p>4616 Weisskirchen </p> 
                <p> ÖSTERREICH </p>
@@ -47,7 +47,7 @@
             <div class="widget-inner">
               <h3 class="widget-title">Recent Posts</h3>
               <ul>
-                <li> <a href="#">Die neue BGL Prestige CARD</a> </li>
+                <li> <a href="#">Die neue BGL CARD</a> </li>
                
               </ul>
             </div>

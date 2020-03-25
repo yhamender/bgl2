@@ -8,7 +8,7 @@
     <div class="carousel-inner">
 
        <div class="item active" style="background: linear-gradient(rgba(20, 20, 20, 0.4),rgba(20, 20  , 20, 0.4)),center url(<?php echo get_template_directory_uri();?>/assets/img/gc_goldegg_clubhaus-slider-1.jpg); background-color: #000000;padding: 20px 0; color: #fff;
-        min-height:610px; text-align: center; width:100%; background-size: cover;">
+        min-height:610px; text-align: center; width:80%; background-size: cover; margin-left: 10%;">
       <h1 class="heading-title"><span class="h6 heading-title-sub"> &nbsp; </span>
     <a href="<?php echo site_url('registration'); ?>" class=" btncourse-1">Jetzt anmelden</a>
    </h1>
@@ -31,7 +31,7 @@
      
     </div>
     <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#myCarousel" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> <span class="sr-only">Next</span> </a> </div>
+     </div>
 </div>
 <div class="container-fluid">
   <div class="row">

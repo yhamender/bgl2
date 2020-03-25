@@ -154,7 +154,7 @@
 <body <?php body_class('pace-done'); ?>>
 <div class="header navbar-fixed-top">
   <div class="container">
-    <div class="col-md-2"> <a class="logo" href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri();?>/assets/img/logo-2.png" style="margin-top:-38%;" /></a> </div>
+    <div class="col-md-2"> <a class="logo" href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri();?>/assets/img/logo-2.png" style="margin-top:10%;" /></a> </div>
     <div class="col-md-10"> 
      
   <?php if(is_user_logged_in()){ ?>
@@ -168,14 +168,8 @@
    <a href="<?php echo wp_logout_url(site_url()); ?>" class="btncourse" style="margin-left:118px;">Logout(<?php echo $userData->first_name; ?> <?php echo $userData->last_name; ?>)</a>
   <?php } ?>
    <!-- <a href="#" class="btncourse" style="left:-222px;">Stay Connected</a>   -->
-<?php if(is_user_logged_in()){ ?>
-  <a href="<?php echo site_url('book-a-tee-time'); ?>" class=" btncourse" style="color:#c1aa6a;">GOLFRUNDE BUCHEN</a>
-<?php } else { ?>
 
-<a href="#" class=" btncourse book" style="color:#c1aa6a;">GOLFRUNDE BUCHEN</a>
-
-<?php } ?>
-  <a href="<?php echo site_url('cart'); ?>" class=" btncourse" style="color:#c1aa6a;"> Cart Total: <?php echo WC()->cart->get_cart_contents_count(); ?></a>
+ 
 
      <nav class="navbar navbar-inverse" id="top-menu" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->

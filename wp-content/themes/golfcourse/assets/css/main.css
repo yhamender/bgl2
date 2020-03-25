@@ -6,7 +6,7 @@ body{background:#fff; overflow-x:hidden; background-image:url("Untitled-2.jpg");
 .navbar-inverse {background-color:transparent!important; border:none; position:relative; top:0px;}
 .navbar-nav{position:relative; top:21px; }
 .navbar-collapse{ width:80%; display:inline; overflow:hidden;}
-.navbar-collapse li a{ color:#c1aa6a!important; text-transform:uppercase; font-size:16px; }
+.navbar-collapse li a{ color:#c7c6c6!important; text-transform:uppercase; font-size:16px; }
 .navbar-nav li a{font-family: 'Fjalla One', sans-serif!important;}
 .portfolio-box li{ background: #333; border: 4px solid #fff; position: relative;-webkit-backface-visibility:hidden;}
 .portfolio-box li { max-width: 49.8%; margin: 0px; padding: 0px; z-index: 100; margin: 0px auto; border: 2px solid #FFFFF1; padding-left: 0px; padding-right: 0px; cursor: pointer; z-index: 0; height: 363px;}
